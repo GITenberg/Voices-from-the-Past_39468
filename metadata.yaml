@@ -1,0 +1,41 @@
+_repo: Voices-from-the-Past_39468
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39468-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Bartlett, Paul Alexander
+    birthdate: 1909
+    deathdate: 1990
+    gutenberg_agent_id: '40002'
+    url: http://www.gutenberg.org/2009/agents/40002
+  editor:
+    agent_name: Bartlett, Steven J.
+    alias: Bartlett, Steven James
+    birthdate: 1945
+    gutenberg_agent_id: '42993'
+    url: http://www.gutenberg.org/2009/agents/42993
+description: ''
+gutenberg_issued: '2012-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39468'
+  lccn: '2006030830'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+- !lcsh 'Diary fiction'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Fiction'
+- !lcsh 'Leonardo, da Vinci, 1452-1519 -- Fiction'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Fiction'
+- !lcsh 'Sappho -- Fiction'
+- !lcsh 'Jesus Christ -- Fiction'
+tableOfContents: Sappho's journal -- Christ's journal -- Leonardo da Vinci's journal
+  -- Shakespeare's journal -- Lincoln's journal.
+title: Voices from the Past
+url: http://www.gutenberg.org/ebooks/39468
